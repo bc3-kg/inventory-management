@@ -1,0 +1,23 @@
+{
+  "signIn": {
+    "title": "Sign in to your account",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "signUpLink": "Don't have an account? Sign up"
+  },
+  "signUp": {
+    "title": "Create your account",
+    "name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign Up",
+    "signInLink": "Already have an account? Sign in"
+  },
+  "dashboard": {
+    "title": "Shipment Dashboard",
+    "inboundShipments": "Inbound Shipments",
+    "outboundShipments": "Outbound Shipments",
+    "inventoryTrends": "Inventory and Lead Time Trends"
+  }
+}

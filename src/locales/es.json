@@ -1,0 +1,23 @@
+{
+  "signIn": {
+    "title": "Inicia sesión en tu cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión",
+    "signUpLink": "¿No tienes una cuenta? Regístrate"
+  },
+  "signUp": {
+    "title": "Crea tu cuenta",
+    "name": "Nombre completo",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Registrarse",
+    "signInLink": "¿Ya tienes una cuenta? Inicia sesión"
+  },
+  "dashboard": {
+    "title": "Panel de envíos",
+    "inboundShipments": "Envíos entrantes",
+    "outboundShipments": "Envíos salientes",
+    "inventoryTrends": "Tendencias de inventario y tiempo de entrega"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "signIn": {
+    "title": "アカウントにサインイン",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "submit": "サインイン",
+    "signUpLink": "アカウントをお持ちでない方はこちら"
+  },
+  "signUp": {
+    "title": "アカウントを作成",
+    "name": "氏名",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "submit": "登録",
+    "signInLink": "既にアカウントをお持ちの方はこちら"
+  },
+  "dashboard": {
+    "title": "出荷ダッシュボード",
+    "inboundShipments": "入荷",
+    "outboundShipments": "出荷",
+    "inventoryTrends": "在庫と納期の傾向"
+  },
+  "receiving": {
+    "title": "入荷登録",
+    "date": "入荷日",
+    "sku": "SKU",
+    "productName": "商品名",
+    "quantity": "数量",
+    "tags": "タグ",
+    "submit": "登録"
+  },
+  "shipping": {
+    "title": "出荷登録",
+    "date": "出荷日",
+    "sku": "SKU",
+    "productName": "商品名",
+    "quantity": "数量",
+    "tags": "タグ",
+    "submit": "登録"
+  }
+}
